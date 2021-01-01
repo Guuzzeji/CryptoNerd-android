@@ -1,0 +1,17 @@
+[
+    {"sys": "BTC", "Name": "Bitcoin"}, 
+    {"sys": "ETH", "Name": "Ethereum"}, 
+    {"sys": "XRP", "Name": "XRP"}, 
+    {"sys": "BCH", "Name": "Bitcoin Cash"}, 
+    {"sys": "EOS", "Name": "EOS"}, 
+    {"sys": "LTC", "Name": "Litecoin"}, 
+    {"sys": "BSV", "Name": "Bitcoin SV"}, 
+    {"sys": "ETC", "Name": "Ethereum Classic"}, 
+    {"sys": "ZEC", "Name": "ZCash"}, 
+    {"sys": "DASH", "Name": "Dash"}, 
+    {"sys": "XMR", "Name": "Monero"},
+    {"sys": "USDT", "Name": "Tether"},
+    {"sys": "DOGE", "Name": "Dogecoin"},
+    {"sys": "LSK", "Name": "Lisk"},
+    {"sys": "REP", "Name": "Augur"}
+]
